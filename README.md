@@ -5,11 +5,17 @@ Your target is to build an application from scratch which will contain backend i
 The user should:
 
 Have the possibility to login / logout – Use Spring Security and the password should not be saved in plaintext
+
 Be able to have multiple accounts in different currencies
+
 Be able to see the available balance for all the accounts
+
 Be able to exchange money from a currency to another (hardcoded exchange rate)
+
 Be able to make a transaction to another user
+
 Be able to request money from another user
+
 Be able to see the transactions history (income/ outcome)
 
 Transaction:
