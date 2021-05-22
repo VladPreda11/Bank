@@ -3,7 +3,7 @@
 Your target is to build an application from scratch which will contain backend implementation. The idea is to build a Bank, which should have the following features:
 
 
-Have the possibility to login / logout – Use Spring Security and the password should not be saved in plaintext
+- Have the possibility to login / logout – Use Spring Security and the password should not be saved in plaintext
 
 - Be able to have multiple accounts in different currencies
 
