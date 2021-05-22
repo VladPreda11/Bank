@@ -18,7 +18,7 @@ Have the possibility to login / logout – Use Spring Security and the password 
 - Be able to see the transactions history (income/ outcome)
 
 Transaction:
-An operation of money transfer between two accounts
+An operation of money transfer between two accounts.
 After the transaction is executed, the balance is updated accordingly for both accounts
 
 Bonus:
